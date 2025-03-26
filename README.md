@@ -1,6 +1,6 @@
 [![Website](https://github.com/carpentries/workshop-template/actions/workflows/website.yml/badge.svg)](https://github.com/carpentries/workshop-template/actions/workflows/website.yml)
 
-# Webpage for Image Processing with Python Workshop on 02/03/2024-03/03/2024
+# Webpage for Image Processing with Python Workshop on 02/03/2025-03/03/2025
 
 A [webpage](https://bear-rsg.github.io/2025-03-02-Birmingham/) for the [Image Processing with Python lesson](https://bear-rsg.github.io/image-processing/) teaching foundational image processing skills with Python and [scikit-image](https://scikit-image.org/). Hosted by [Advanced Research Computing](https://www.birmingham.ac.uk/university/colleges/professional/it/research-computing.aspx) at the University of Birmingham.  
 
